@@ -1,0 +1,15 @@
+/home/fahim/Documents/C# and dot Net Programming/bin/Debug/net6.0/C# and dot Net Programming
+/home/fahim/Documents/C# and dot Net Programming/bin/Debug/net6.0/C# and dot Net Programming.deps.json
+/home/fahim/Documents/C# and dot Net Programming/bin/Debug/net6.0/C# and dot Net Programming.runtimeconfig.json
+/home/fahim/Documents/C# and dot Net Programming/bin/Debug/net6.0/C# and dot Net Programming.dll
+/home/fahim/Documents/C# and dot Net Programming/bin/Debug/net6.0/C# and dot Net Programming.pdb
+/home/fahim/Documents/C# and dot Net Programming/obj/Debug/net6.0/C# and dot Net Programming.csproj.AssemblyReference.cache
+/home/fahim/Documents/C# and dot Net Programming/obj/Debug/net6.0/C# and dot Net Programming.GeneratedMSBuildEditorConfig.editorconfig
+/home/fahim/Documents/C# and dot Net Programming/obj/Debug/net6.0/C# and dot Net Programming.AssemblyInfoInputs.cache
+/home/fahim/Documents/C# and dot Net Programming/obj/Debug/net6.0/C# and dot Net Programming.AssemblyInfo.cs
+/home/fahim/Documents/C# and dot Net Programming/obj/Debug/net6.0/C# and dot Net Programming.csproj.CoreCompileInputs.cache
+/home/fahim/Documents/C# and dot Net Programming/obj/Debug/net6.0/C# and dot Net Programming.dll
+/home/fahim/Documents/C# and dot Net Programming/obj/Debug/net6.0/refint/C# and dot Net Programming.dll
+/home/fahim/Documents/C# and dot Net Programming/obj/Debug/net6.0/C# and dot Net Programming.pdb
+/home/fahim/Documents/C# and dot Net Programming/obj/Debug/net6.0/C# and dot Net Programming.genruntimeconfig.cache
+/home/fahim/Documents/C# and dot Net Programming/obj/Debug/net6.0/ref/C# and dot Net Programming.dll
